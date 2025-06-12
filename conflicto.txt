@@ -1,1 +1,5 @@
 Solved Cambio en las ramas A y B
+
+Cambio desde branch A
+Cambio desde branch a - Segundo intento rebase
+# Solved Cambio en ramas A y B - Segundo intento rebase
