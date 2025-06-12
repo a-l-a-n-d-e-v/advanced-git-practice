@@ -1,2 +1,3 @@
 Funcionalidad X
 Funcionalidad X - Segundo intento rebase
+Funcionalidad X - Segundo intento rebase
